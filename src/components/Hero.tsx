@@ -6,7 +6,7 @@ export default function Hero() {
       className="relative min-h-screen flex items-center justify-center overflow-hidden"
       style={{
         backgroundImage:
-          'linear-gradient(to bottom, rgba(6,7,20,0.65), rgba(6,7,20,0.95)), url(/hero-bg.png)',
+          'linear-gradient(to bottom, rgba(6,7,20,0.65), rgba(6,7,20,0.95)), url(/hero-bg.webp)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
