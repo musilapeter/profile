@@ -25,8 +25,8 @@ const features = [
 ];
 
 const stats = [
-  { value: '50+', label: 'Projects Delivered' },
-  { value: '99%', label: 'Client Satisfaction' },
+  { value: 'Elite', label: 'Talent Network' },
+  { value: 'Zero', label: 'Compromises' },
   { value: '24/7', label: 'Support Available' },
   { value: '3x', label: 'Faster Delivery' },
 ];

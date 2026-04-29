@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 export default function App() {
   return (
-    <div className="relative min-h-screen">
+    <div className="relative min-h-screen overflow-x-hidden">
       {/* Background blobs */}
       <div className="fixed -top-60 -left-60 w-[700px] h-[700px] bg-brand-500/[0.05] rounded-full blur-[180px] pointer-events-none" />
       <div className="fixed -bottom-60 -right-60 w-[600px] h-[600px] bg-accent/[0.04] rounded-full blur-[160px] pointer-events-none" />
