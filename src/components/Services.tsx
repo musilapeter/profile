@@ -57,7 +57,7 @@ export default function Services() {
   }, []);
 
   return (
-    <section id="services" className="relative py-24 sm:py-32 lg:py-40" ref={sectionRef}>
+    <section id="services" className="relative py-16 sm:py-20 lg:py-28" ref={sectionRef}>
       <div className="max-w-7xl mx-auto px-5 sm:px-8">
         {/* Header */}
         <div className="text-center mb-16 lg:mb-20">
