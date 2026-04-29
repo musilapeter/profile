@@ -14,6 +14,7 @@ export default function Navbar() {
   const links = [
     { label: 'Services', href: '#services' },
     { label: 'Why Us', href: '#why' },
+    { label: 'Network', href: '#network' },
     { label: 'Waitlist', href: '#waitlist' },
   ];
 
