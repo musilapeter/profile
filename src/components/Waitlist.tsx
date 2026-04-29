@@ -33,7 +33,7 @@ export default function Waitlist() {
   };
 
   return (
-    <section id="waitlist" className="relative py-16 sm:py-20 lg:py-28">
+    <section id="waitlist" className="relative py-10 sm:py-16 lg:py-24">
       <div className="max-w-3xl mx-auto px-5 sm:px-8">
         <div className="glass rounded-3xl p-8 sm:p-12 md:p-16 text-center relative overflow-hidden">
           {/* Decorative glow */}

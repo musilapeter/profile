@@ -33,7 +33,7 @@ const stats = [
 
 export default function WhyUs() {
   return (
-    <section id="why" className="relative py-16 sm:py-20 lg:py-28 border-t border-white/[0.04]">
+    <section id="why" className="relative py-10 sm:py-16 lg:py-24 border-t border-white/[0.04]">
       {/* Decorative blob */}
       <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/[0.04] rounded-full blur-[150px] pointer-events-none" />
 
