@@ -27,8 +27,8 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-5 sm:px-8 flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
-        <a href="#" className="flex items-center gap-2 hover:opacity-80 transition-opacity duration-300">
-          <img src="/tecxify-logo.svg" alt="Tecxify Logo" className="h-8 md:h-10 w-auto object-contain" />
+        <a href="#" className="text-xl md:text-2xl font-black tracking-wider gradient-text">
+          TECXIFY
         </a>
 
         {/* Desktop Links */}
