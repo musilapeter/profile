@@ -28,8 +28,12 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-5 sm:px-8 flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
-        <a href="#" className="text-xl md:text-2xl font-black tracking-wider gradient-text">
-          TECXIFY
+        <a href="#" className="flex items-center">
+          <img
+            src="/logo.png"
+            alt="Tecxify"
+            className="h-24 md:h-28 w-auto"
+          />
         </a>
 
         {/* Desktop Links */}
